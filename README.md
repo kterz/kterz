@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kterz
-- 👀 I’m interested in becoming a bioinformatician 
+- 👀 I’m interested in becoming a Bioinformatician
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me via message here!
