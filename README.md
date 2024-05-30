@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kterz
-- 👀 I’m interested in becoming a Bioinformatician
-- 🌱 I’m currently learning python
+- Bioinformatician in training
+- 🌱 I’m currently learning how to use HPC
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me via message here!
 
 <!---
 kterz/kterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
